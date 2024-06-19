@@ -55,20 +55,59 @@ Music, piano class. First year
 
 ### 🎓 My Projects:
 <table>
-    <tr>
+  <tr>
     <th>Project's name</th>
     <th>Deploy</th>
     <th>Repo</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Async race</td>
+    <td>
+      <a href="https://maksimgurbanow.github.io/async-race/build/">link</a> - <a href="https://github.com/mikhama/async-race-api">server</a> needs to be installed
+    </td>
+    <td>
+      <a href="https://github.com/MaksimGurbanow/async-race">Repo</a>
+    </td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Fun Chat</td>
+    <td>
+      <a href="https://maksimgurbanow.github.io/build">link</a> - <a href="https://github.com/mikhama/async-race-api">server</a> needs to be installed
+    </td>
+    <td>
+      <a href="https://github.com/MaksimGurbanow/fun-chat">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Nonograms</td>
+    <td>
+      <a href="https://maksimgurbanow.github.io/nonograms/dist/">link</a>
+    </td>
+    <td>
+      <a href="https://github.com/MaksimGurbanow/nonograms">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Eco Me</td>
+    <td>
+      <a href="https://gh-pages--eco-me.netlify.app/">link</a>
+    </td>
+    <td>
+      Not Available Yet
+    </td>
+  </tr>
+  <tr>
+    <td>RSS puzzle</td>
+    <td>
+      <a href="https://maksimgurbanow.github.io/rss-puzzle/build/">link</a>
+    </td>
+    <td>
+      <a href="https://github.com/MaksimGurbanow/rss-puzzle">Repo</a>
+    </td>
   </tr>
 </table>
 
+### My extra skills:
+English - C1 according to British Council. - [ielts.pdf](https://github.com/user-attachments/files/15894051/ielts.pdf)
+
+French - B1 - [DELF B1.PDF](https://github.com/user-attachments/files/15894078/DELF.B1.PDF)
