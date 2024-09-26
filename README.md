@@ -107,7 +107,9 @@ Music, piano class. First year
   </tr>
 </table>
 
-### My extra skills:
+### My language skills:
 English - C1 according to British Council. - [ielts.pdf](https://github.com/user-attachments/files/15894051/ielts.pdf)
+
+Turkish - B2 according to TOMER educational center.
 
 French - B1 - [DELF B1.PDF](https://github.com/user-attachments/files/15894078/DELF.B1.PDF)
