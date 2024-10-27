@@ -34,6 +34,11 @@ Music, piano class. First year
 <!-- +90 501 069 68 99 - my phone number -->
 <br>
 
+### Work Experience:
+1. Appstruct - this is the company developing a platform constructor of web applications
+
+<br>
+
 ### 🛠 Languages and tools:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
